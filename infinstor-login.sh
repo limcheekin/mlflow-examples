@@ -1,0 +1,1 @@
+python -m infinstor_mlflow_plugin.login
