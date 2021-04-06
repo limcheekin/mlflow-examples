@@ -5,3 +5,5 @@ dependencies:
   - python=3.7.6
   - pip:
     - mlflow==1.15.0
+    - infinstor==1.2.5
+    - infinstor-mlflow-plugin==0.4.3
